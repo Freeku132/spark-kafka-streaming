@@ -1,8 +1,9 @@
-# Kafka Cluster with Spark local environment template
+# Kafka Cluster with Spark local environment
 
-Kafka Cluster with Zookeeper and PySpark Jupyter Notebook.
+Based on the Spark Streaming with PySpark course from Ease With Data,
+I practiced some examples of streaming data using pySpark and Kafka
 
-## Instalation:
+## Installation:
 ### First copy .env.example to create .env file
 ```bash
 cp .env.example .env
