@@ -153,3 +153,9 @@ dmypy.json
 cython_debug/
 
 .idea/
+
+/work/scripts/.ipynb_checkpoints/*
+/work/scripts/archive_dir/*
+/work/scripts/checkpoint_dir/*
+/work/scripts/checkpoint_dir_kafka/*
+
