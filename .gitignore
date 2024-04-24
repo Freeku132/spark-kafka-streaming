@@ -158,4 +158,5 @@ cython_debug/
 /work/scripts/archive_dir/*
 /work/scripts/checkpoint_dir/*
 /work/scripts/checkpoint_dir_kafka/*
+/work/data/output/events
 
